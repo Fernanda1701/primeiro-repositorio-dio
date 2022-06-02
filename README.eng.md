@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-    <a href="https://fernanda1701.github.io/primeiro-repositorio-dio/">The first DIO repository </a>
+    <a href="https://github.com/Fernanda1701/primeiro-repositorio-dio">The first DIO repository </a>
 </h1>
 <p align="center">Creating the first repository in Santander Bootcamp</p>
 
