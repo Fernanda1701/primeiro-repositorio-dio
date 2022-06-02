@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/Fernanda1701/tindog-responsive-site#readme">☆ Português Brasileiro</a>
-    <a href="https://github.com/Fernanda1701/tindog-responsive-site/blob/main/README.eng.md">☆ English ☆</a> 
+    <a href="https://github.com/Fernanda1701/primeiro-repositorio-dio/blob/main/README.md">☆ Português Brasileiro</a>
+    <a href="https://github.com/Fernanda1701/primeiro-repositorio-dio/blob/main/README.eng.md">☆ English ☆</a> 
 </p>
 
 
@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-    <a href="https://fernanda1701.github.io/tindog-responsive-site/">Primeiro repositorio DIO </a>
+    <a href="https://fernanda1701.github.io/primeiro-repositorio-dio/">Primeiro repositorio DIO </a>
 </h1>
 <p align="center">Criando o primeiro repositório no Santander Bootcamp</p>
 
