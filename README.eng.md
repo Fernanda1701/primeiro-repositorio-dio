@@ -25,7 +25,7 @@
 
 
 
-## Autor:
+## Author:
 
 <a href="https://github.com/Fernanda1701">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/Fernanda1701" width="80px;" alt=""/>
